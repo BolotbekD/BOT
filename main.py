@@ -4,7 +4,7 @@ from telebot.types import KeyboardButton, ReplyKeyboardMarkup, InlineKeyboardBut
 from test22 import exchanger_currency
 from text import text_start
 from database import Database
-TOKEN = '6112862497:AAEV6UrVJYs8EJ6_YfCZlTcRW5HRJ1JSStk'
+TOKEN = ''
 
 bot = telebot.TeleBot(TOKEN)
 
